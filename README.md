@@ -272,7 +272,6 @@ EJERCICIO 3
 
 ⚡ Complejidad: O(n) tiempo
 
-🌳 ÁRBOL DE ENTRADA:
     ![image](https://github.com/user-attachments/assets/e2b9c6b6-aa9d-4eb2-b3bc-68447ca402cd)
 
 📊 PROFUNDIDAD MÁXIMA: 4
