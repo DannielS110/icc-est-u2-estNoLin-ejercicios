@@ -213,7 +213,7 @@ Este proyecto constituye una implementación integral de cuatro algoritmos funda
  ---------------------------------------------------------------------------------------------------------------------------------------------------------
 ## 🏆 IMPLEMENTACIONES ALGORÍTMICAS 
 
-EJERCICIO 1
+  EJERCICIO 1
 
 🔧 Algoritmo: Inserción recursiva con preservación de propiedades BST
 
@@ -230,7 +230,7 @@ EJERCICIO 1
 
 ![image](https://github.com/user-attachments/assets/8fb3f160-d0f5-4460-ad23-394fb04c3421)
 
-EJERCICIO 2
+  EJERCICIO 2
 
 🔧 Algoritmo: Intercambio recursivo de subárboles
 
@@ -247,7 +247,7 @@ EJERCICIO 2
 
 ![image](https://github.com/user-attachments/assets/bd5f0112-fd32-4735-9dbc-92d7b9ffe5cd)
 
-EJERCICIO 3
+   EJERCICIO 3
 
 🔧 Algoritmo: BFS (Breadth-First Search) con cola
 
@@ -273,7 +273,7 @@ EJERCICIO 3
 
 ⚡ Complejidad: O(n) tiempo
 
-    ![image](https://github.com/user-attachments/assets/e2b9c6b6-aa9d-4eb2-b3bc-68447ca402cd)
+![image](https://github.com/user-attachments/assets/e2b9c6b6-aa9d-4eb2-b3bc-68447ca402cd)
 
 📊 PROFUNDIDAD MÁXIMA: 4
 
