@@ -207,21 +207,8 @@ Ing. Pablo Torres
 
 Este proyecto constituye una implementación integral de cuatro algoritmos fundamentales para el manejo de árboles binarios, diseñado para consolidar el conocimiento teórico a través de la práctica aplicada. Cada ejercicio aborda aspectos críticos de las estructuras jerárquicas: inserción eficiente, transformaciones estructurales, recorridos por niveles y análisis de profundidad.
 
-┌────────────────────────────────────────────────────────┐
+![image](https://github.com/user-attachments/assets/2ee6935e-d54b-4d04-89ca-7547f1d83569)
 
-│  🎯 OBJETIVO PRINCIPAL                                |                                
-
-│
-
-│  ═════════════════════════                             │
-
-│  Dominar las estructuras de datos no lineales          │
-
-│  mediante la implementación práctica de algoritmos     │
-
-│  esenciales sobre árboles binarios y BST               │
-
-└────────────────────────────────────────────────────────┘
 
 🏆 IMPLEMENTACIONES ALGORÍTMICAS 
 
@@ -236,15 +223,9 @@ EJERCICIO 1
 ⚡ Complejidad: O(log n) promedio | O(n) peor caso
 
 🌳 VISUALIZACIÓN ESTRUCTURAL
-          🔸 5 🔸
-        
-        ↙         ↘
-      
-    🔸 3 🔸      🔸 7 🔸
-    
-   ↙     ↘            ↙     ↘'
-   
-🔸 2 🔸 🔸 4 🔸   🔸 6 🔸 🔸 8 🔸
+          
+![image](https://github.com/user-attachments/assets/57ca53ce-fbc0-4ed3-a453-584fe2c5a550)
+
 
 ![image](https://github.com/user-attachments/assets/8fb3f160-d0f5-4460-ad23-394fb04c3421)
 
@@ -260,16 +241,8 @@ EJERCICIO 2
 
 🌳 ÁRBOL DE ENTRADA:
 
-ANTES:                                   DESPUÉS:
-    🔸 4 🔸                                🔸 4 🔸
-   
-   ↙     ↘                                  ↙     ↘
 
-🔸 2 🔸   🔸 7 🔸                    🔸 7 🔸   🔸 2 🔸
-
-↙   ↘   ↙   ↘                           ↙   ↘   ↙   ↘
-
-1   3    6   9                            9   6   3   1
+![image](https://github.com/user-attachments/assets/1bd444ad-6ee6-4cda-a1ab-a0503c043b6a)
 
 ![image](https://github.com/user-attachments/assets/bd5f0112-fd32-4735-9dbc-92d7b9ffe5cd)
 
@@ -283,16 +256,8 @@ EJERCICIO 3
 
 ⚡ Complejidad: O(n) tiempo 
 
-🌳 ÁRBOL DE ENTRADA:        📋 LISTAS RESULTANTES:
-       🔸 4 🔸             ┌─────────────────────┐
-    
-      ↙     ↘               │ Nivel 0: 4          │
-   
-   🔸 2 🔸   🔸 7 🔸       │ Nivel 1: 2 → 7      │
-  
-     ↙   ↘   ↙   ↘          │ Nivel 2: 1→3→6→9    │
-   
-    1     3  6     9         └─────────────────────┘
+
+![image](https://github.com/user-attachments/assets/91e353bc-3c41-464f-905b-cd59ea09bd72)
 
 ![image](https://github.com/user-attachments/assets/8d7821b7-e0bf-4c43-bdcd-fe323f955a57)
 
@@ -308,20 +273,7 @@ EJERCICIO 3
 ⚡ Complejidad: O(n) tiempo
 
 🌳 ÁRBOL DE ENTRADA:
-    
-    🔸 4 🔸      ← Nivel 1
-   
-   ↙     ↘
-
-🔸 2 🔸   🔸 7 🔸  ← Nivel 2
-
- ↙   ↘   
-
-🔸 1 🔸 🔸 3 🔸    ← Nivel 3
-
- ↙
-
-🔸 8 🔸            ← Nivel 4
+    ![image](https://github.com/user-attachments/assets/e2b9c6b6-aa9d-4eb2-b3bc-68447ca402cd)
 
 📊 PROFUNDIDAD MÁXIMA: 4
 
