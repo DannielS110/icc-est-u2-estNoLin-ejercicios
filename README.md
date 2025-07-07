@@ -185,3 +185,176 @@ Para contribuir a este proyecto, por favor crea un fork y envía una solicitud d
 
 - [PABLO TORRES] - Desarrollo inicial
 
+🌳 Ejercicios Lógica con Árboles 
+
+👨‍🎓 ESTUDIANTE
+
+Daniel Sanchez Valle
+
+📚 Ingeniería en Computación  
+
+🏛️ Universidad Politécnica Salesiana  
+
+📧 daniel.sanchez@estudiante.ups.edu.ec  
+
+👨‍🏫 PROFESOR  
+
+Ing. Pablo Torres 
+
+📖 Estructuras de Datos  
+
+📚 Descripción del Proyecto
+
+Este proyecto constituye una implementación integral de cuatro algoritmos fundamentales para el manejo de árboles binarios, diseñado para consolidar el conocimiento teórico a través de la práctica aplicada. Cada ejercicio aborda aspectos críticos de las estructuras jerárquicas: inserción eficiente, transformaciones estructurales, recorridos por niveles y análisis de profundidad.
+
+┌────────────────────────────────────────────────────────┐
+
+│  🎯 OBJETIVO PRINCIPAL                                |                                
+
+│
+
+│  ═════════════════════════                             │
+
+│  Dominar las estructuras de datos no lineales          │
+
+│  mediante la implementación práctica de algoritmos     │
+
+│  esenciales sobre árboles binarios y BST               │
+
+└────────────────────────────────────────────────────────┘
+
+🏆 IMPLEMENTACIONES ALGORÍTMICAS 
+
+EJERCICIO 1
+
+🔧 Algoritmo: Inserción recursiva con preservación de propiedades BST
+
+📥 Input: [5, 3, 7, 2, 4, 6, 8]
+
+🎯 Objetivo: Construcción de BST optimizado
+
+⚡ Complejidad: O(log n) promedio | O(n) peor caso
+
+🌳 VISUALIZACIÓN ESTRUCTURAL
+          🔸 5 🔸
+        
+        ↙         ↘
+      
+    🔸 3 🔸      🔸 7 🔸
+    
+   ↙     ↘            ↙     ↘'
+   
+🔸 2 🔸 🔸 4 🔸   🔸 6 🔸 🔸 8 🔸
+
+![image](https://github.com/user-attachments/assets/8fb3f160-d0f5-4460-ad23-394fb04c3421)
+
+EJERCICIO 2
+
+🔧 Algoritmo: Intercambio recursivo de subárboles
+
+🎯 Función: Generación del árbol espejo
+
+⚙️ Técnica: Recursión con manipulación de referencias
+
+⚡ Complejidad: O(n) tiempo 
+
+🌳 ÁRBOL DE ENTRADA:
+
+ANTES:                                   DESPUÉS:
+    🔸 4 🔸                                🔸 4 🔸
+   
+   ↙     ↘                                  ↙     ↘
+
+🔸 2 🔸   🔸 7 🔸                    🔸 7 🔸   🔸 2 🔸
+
+↙   ↘   ↙   ↘                           ↙   ↘   ↙   ↘
+
+1   3    6   9                            9   6   3   1
+
+![image](https://github.com/user-attachments/assets/bd5f0112-fd32-4735-9dbc-92d7b9ffe5cd)
+
+EJERCICIO 3
+
+🔧 Algoritmo: BFS (Breadth-First Search) con cola
+
+📤 Output: N listas enlazadas para N niveles
+
+🔗 Estructura: Conversión nivel → lista enlazada independiente
+
+⚡ Complejidad: O(n) tiempo 
+
+🌳 ÁRBOL DE ENTRADA:        📋 LISTAS RESULTANTES:
+       🔸 4 🔸             ┌─────────────────────┐
+    
+      ↙     ↘               │ Nivel 0: 4          │
+   
+   🔸 2 🔸   🔸 7 🔸       │ Nivel 1: 2 → 7      │
+  
+     ↙   ↘   ↙   ↘          │ Nivel 2: 1→3→6→9    │
+   
+    1     3  6     9         └─────────────────────┘
+
+![image](https://github.com/user-attachments/assets/8d7821b7-e0bf-4c43-bdcd-fe323f955a57)
+
+
+    EJERCICIO 4
+
+🔧 Algoritmo: Recursión DFS para altura máxima
+
+🎯 Función: Determinar camino más largo raíz → hoja
+
+📊 Métrica: Número de niveles en el árbol
+
+⚡ Complejidad: O(n) tiempo
+
+🌳 ÁRBOL DE ENTRADA:
+    
+    🔸 4 🔸      ← Nivel 1
+   
+   ↙     ↘
+
+🔸 2 🔸   🔸 7 🔸  ← Nivel 2
+
+ ↙   ↘   
+
+🔸 1 🔸 🔸 3 🔸    ← Nivel 3
+
+ ↙
+
+🔸 8 🔸            ← Nivel 4
+
+📊 PROFUNDIDAD MÁXIMA: 4
+
+![image](https://github.com/user-attachments/assets/338a8753-3387-4cf5-881e-060f5a0428df)
+
+📖Ejecucion 
+
+![code](https://github.com/user-attachments/assets/3956ff0a-e207-41b9-986f-d510b6f8d88c)
+
+🔧 Funcionalidades
+
+✅ Inserción eficiente en BST manteniendo propiedades de orden
+
+✅ Inversión completa de árboles binarios
+
+✅ Generación automática de listas enlazadas por nivel
+
+✅ Cálculo preciso de profundidad máxima
+
+✅ Validación automática de datos del estudiante
+
+✅ Visualización clara de estructuras de árboles
+
+🧾 Conclusión
+
+Este proyecto permitió consolidar el entendimiento de estructuras de datos no lineales, específicamente árboles binarios y sus algoritmos asociados. Se reforzaron conceptos fundamentales como recursión, manejo 
+
+de referencias y algoritmos de recorrido. La implementación de BFS para listas por niveles y la manipulación de BST demuestran la versatilidad y potencia de las estructuras arbóreas. El desarrollo fortaleció 
+
+habilidades en programación orientada a objetos y metodologías de testing, evidenciando la importancia de estas estructuras para soluciones algorítmicas eficientes y escalables.
+
+
+🎓 Universidad Politécnica Salesiana
+
+⭐ ¡Gracias por revisar este proyecto académico! ⭐
+
