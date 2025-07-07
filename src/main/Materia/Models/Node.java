@@ -13,7 +13,6 @@ package main.Materia.Models;
  *
  * @author Pablo
  */
-
 public class Node {
     private int value;
     private Node left;
@@ -22,6 +21,7 @@ public class Node {
 
     public Node(int value) {
         this.value = value;
+        this.height = 1;
     }
 
     public int getValue() {
@@ -54,5 +54,10 @@ public class Node {
 
     public void setHeight(int height) {
         this.height = height;
+    }
+
+    @Override
+    public String toString() {
+        return String.valueOf(value);
     }
 }
