@@ -202,15 +202,16 @@ Daniel Sanchez Valle
 Ing. Pablo Torres 
 
 📖 Estructuras de Datos  
+
  ---------------------------------------------------------------------------------------------------------------------------------------------------------
-📚 Descripción del Proyecto
+## 📚 Descripción del Proyecto
 
 Este proyecto constituye una implementación integral de cuatro algoritmos fundamentales para el manejo de árboles binarios, diseñado para consolidar el conocimiento teórico a través de la práctica aplicada. Cada ejercicio aborda aspectos críticos de las estructuras jerárquicas: inserción eficiente, transformaciones estructurales, recorridos por niveles y análisis de profundidad.
 
 ![image](https://github.com/user-attachments/assets/2ee6935e-d54b-4d04-89ca-7547f1d83569)
 
  ---------------------------------------------------------------------------------------------------------------------------------------------------------
-🏆 IMPLEMENTACIONES ALGORÍTMICAS 
+## 🏆 IMPLEMENTACIONES ALGORÍTMICAS 
 
 EJERCICIO 1
 
@@ -280,7 +281,7 @@ EJERCICIO 3
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
 
-📖Ejecucion 
+## 📖Ejecucion 
 
 ![code](https://github.com/user-attachments/assets/3956ff0a-e207-41b9-986f-d510b6f8d88c)
 
@@ -302,16 +303,21 @@ EJERCICIO 3
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
 
-🧾 Conclusión
+## 🧾 Conclusión
 
 Este proyecto permitió consolidar el entendimiento de estructuras de datos no lineales, específicamente árboles binarios y sus algoritmos asociados. Se reforzaron conceptos fundamentales como recursión, manejo 
 
 de referencias y algoritmos de recorrido. La implementación de BFS para listas por niveles y la manipulación de BST demuestran la versatilidad y potencia de las estructuras arbóreas. El desarrollo fortaleció 
 
-habilidades en programación orientada a objetos y metodologías de testing, evidenciando la importancia de estas estructuras para soluciones algorítmicas eficientes y escalables.
+habilidades en programación orientada a objetos, evidenciando la importancia de estas estructuras para soluciones algorítmicas eficientes y escalables.
 
 
-🎓 Universidad Politécnica Salesiana
+## 🎓 Universidad Politécnica Salesiana
 
-⭐ ¡Gracias por revisar este proyecto académico! ⭐
+## 👨‍🏫 Autor Daniel Sanchez Valle
+
+
+## ⭐ ¡Gracias por revisar este proyecto académico! ⭐
+       
+       Estructuras de Datos - Segundo Interciclo 2024
 
