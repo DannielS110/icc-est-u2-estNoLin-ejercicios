@@ -162,7 +162,7 @@ Calcula la profundidad máxima de un árbol binario (la longitud del camino más
 
 ---
 
-## Rúbrica de Calificación
+## Rubrica de Calificación
 
 | **Criterio**       | **Descripción**                                                                       | **Puntaje** |
 | ------------------ | ------------------------------------------------------------------------------------- | ----------- |
@@ -227,6 +227,7 @@ Este proyecto constituye una implementación integral de cuatro algoritmos funda
           
 ![image](https://github.com/user-attachments/assets/57ca53ce-fbc0-4ed3-a453-584fe2c5a550)
 
+ejemplo terminal 
 
 ![image](https://github.com/user-attachments/assets/8fb3f160-d0f5-4460-ad23-394fb04c3421)
 
@@ -245,6 +246,8 @@ Este proyecto constituye una implementación integral de cuatro algoritmos funda
 
 ![image](https://github.com/user-attachments/assets/1bd444ad-6ee6-4cda-a1ab-a0503c043b6a)
 
+ejemplo terminal 
+
 ![image](https://github.com/user-attachments/assets/bd5f0112-fd32-4735-9dbc-92d7b9ffe5cd)
 
     EJERCICIO 3
@@ -259,6 +262,8 @@ Este proyecto constituye una implementación integral de cuatro algoritmos funda
 
 
 ![image](https://github.com/user-attachments/assets/91e353bc-3c41-464f-905b-cd59ea09bd72)
+
+ejemplo terminal 
 
 ![image](https://github.com/user-attachments/assets/8d7821b7-e0bf-4c43-bdcd-fe323f955a57)
 
@@ -276,6 +281,8 @@ Este proyecto constituye una implementación integral de cuatro algoritmos funda
 ![image](https://github.com/user-attachments/assets/e2b9c6b6-aa9d-4eb2-b3bc-68447ca402cd)
 
 📊 PROFUNDIDAD MÁXIMA: 4
+
+ejemplo terminal 
 
 ![image](https://github.com/user-attachments/assets/338a8753-3387-4cf5-881e-060f5a0428df)
 
